@@ -6,8 +6,8 @@ int main(){
     cout<<"Size:";
     cin>>n;
 
-    cout<<"Input Elements:";
-    int arr[n];
+    int arr[n];  // declaring array of size n
+    cout<<"Input Elements:";  // taking inputs using loop
     for(int i=0;i<n;i++){
         cin>>arr[i];
     }

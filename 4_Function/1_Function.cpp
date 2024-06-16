@@ -27,6 +27,7 @@ int main(){
     int n_c_r= fact_n/(fact_n_r * fact_r);
     cout<<"n_c_r:"<<n_c_r;
 
+}
     /*
 
     // Finding n factorial
@@ -58,4 +59,5 @@ int main(){
     cout<<n_c_r;
 
     */
-}
+
+

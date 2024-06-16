@@ -3,9 +3,9 @@ using namespace std;
 
 // while passing array to function , you have to explicitly give its size
 
-void printArray(int arr[], int n){
+void printArray(int array[], int n){
     for(int i=0;i<n;i++){
-        cout<<arr[i]<<" ";
+        cout<<array[i]<<" ";
     }
 }
 
